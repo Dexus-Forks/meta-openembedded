@@ -3,7 +3,7 @@ HOMEPAGE = "https://github.com/gazpachoking/jsonref"
 LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=a34264f25338d41744dca1abfe4eb18f"
 
-SRC_URI[sha256sum] = "68b330c6815dc0d490dbb3d65ccda265ddde9f7856fd2f3322f971d456ea7549"
+SRC_URI[sha256sum] = "db1ab1faa75a5ffaa2693104a7deb23471c716fb2edc4db27b7408bf90dff157"
 
 inherit pypi setuptools3
 
